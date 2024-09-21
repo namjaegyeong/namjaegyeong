@@ -10,7 +10,9 @@ I'm interested in..
 ![Static Badge](https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/amazon_aws-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namjaegyeong&show_icons=true&theme=transparent)
+-->
 
 <!--
 **namjaegyeong/namjaegyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
